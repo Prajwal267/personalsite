@@ -1,0 +1,40 @@
+#hero{
+    display: flex;
+    margin: 0;
+    height: 90vh;
+    background-color: cadetblue;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;  
+}
+li{
+    list-style:none;
+}
+ul{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    padding:10px ;
+}
+#second{
+    display: flex;
+    margin: 0;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+}
+.third{
+    background-color: aquamarine;
+}
+h4{
+    padding-top: 15px;
+    padding-left: 20px;
+}
+#project{
+    background-color: bisque;
+}
+#about{
+    background-color: cadetblue;
+}
